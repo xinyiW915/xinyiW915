@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on video quality assessment and computer vision projects
 - 🤔 I’m looking for help with PhD internship and visiting PhD opportunity 
 - 💬 Ask me about anything on my GitHub repository
-- 📫 How to reach me: xinyi.wang@bristol.ac.uk
+- 📫 How to reach me: xinyi.wang@bristol.ac.uk (work), xinyi.wang915@gmail.com (personal)
 
   
 <!--
