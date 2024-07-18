@@ -6,9 +6,11 @@
 - 🤔 I’m looking for PhD internship and visiting PhD opportunity 
 - 💬 Ask me about anything on my GitHub repository
 - 📫 How to reach me: xinyi.wang@bristol.ac.uk (work), xinyi.wang915@gmail.com (personal)
-Personal Pages: https://xinyiW915.github.io
-Linkedin: https://www.linkedin.com/in/xinyi-wang915/
-Google Scholar: https://scholar.google.com/citations?user=Z-yFuY4AAAAJ
+# 📎 Homepages
+- Personal Pages: https://xinyiW915.github.io
+- Linkedin: https://www.linkedin.com/in/xinyi-wang915/
+- Google Scholar: https://scholar.google.com/citations?user=Z-yFuY4AAAAJ
+
   
 <!--
 **xinyiW915/xinyiW915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
