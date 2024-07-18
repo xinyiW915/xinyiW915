@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 I’m currently working at the University of Bristol
+- 🏫 I’m currently working at the [University of Bristol](https://www.bristol.ac.uk/)
 - 🌱 I’m currently learning computer vision, video quality assessment, image/video processing, video compression, video coding
 - 👯 I’m looking to collaborate on video quality assessment and computer vision projects
 - 🤔 I’m looking for PhD internship and visiting PhD opportunity 
