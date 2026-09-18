@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏫 I’m currently working at the [University of Cambridge](https://www.cam.ac.uk/)
-- 🌱 I’m currently learning computer vision, video quality assessment, image/video processing, video compression, and video coding
+- 🌱 I’m currently learning computer vision, video quality assessment, image/video processing, and video compression
 - 👯 I’m looking to collaborate on video quality assessment and computer vision projects
 - 💬 Ask me about anything on my GitHub repository
 - 📫 How to reach me: xinyi.wang@bristol.ac.uk (work), xinyi.wang915@gmail.com (personal)
