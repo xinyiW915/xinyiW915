@@ -6,7 +6,7 @@
 - 💬 Ask me about anything on my GitHub repository
 - 📫 How to reach me: xinyi.wang@cl.cam.ac.uk (work), xinyi.wang915@gmail.com (personal)
 # 📎 Homepages
-- Personal Pages: https://xinyiW915.github.io
+- Personal Page: https://xinyiW915.github.io
 - Linkedin: https://www.linkedin.com/in/xinyi-wang915/
 - Google Scholar: https://scholar.google.com/citations?user=Z-yFuY4AAAAJ
 
